@@ -1,0 +1,39 @@
+.Relogio {
+    color: rgb(10, 10, 175);
+    font-size: 50px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+body {
+    background-color: rgb(18, 83, 62);
+    margin-top: 400px;
+    
+}
+.horas {
+    border: 3px solid rgb(207,203,203);
+    background-color:white;
+    border-radius: 10px;
+    
+}
+.minutos {
+    background-color:white;
+    border: 3px solid rgb(207, 203, 203);
+    border-radius: 10px;
+}
+.segundos {
+    background-color:white;
+    border: 3px solid rgb(207,203,203);
+    border-radius: 10px;
+
+}
+
+.temp {
+    background-color:white;
+    border: 3px solid rgb(207,203,203);
+    border-radius: 10px;
+}
